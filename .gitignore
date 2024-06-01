@@ -39,3 +39,4 @@ notification.mp3
 /.coverage*
 /test/test_outputs
 /cache
+/shap_e_model_cache
